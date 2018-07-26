@@ -1,5 +1,7 @@
 # Solution Notes for Lab: `todo2`
 
+``$(a).hasClass(b)`` returns ``true`` if any of the elements in the selector ``a`` have class ``b``.
+
 ## Resources used
 * https://api.jquery.com/hasclass/
 * https://api.jquery.com/each/
