@@ -1,5 +1,4 @@
 function toggleComplete(obj) {
-  console.log("toggle")
   $(obj).toggleClass("checked");
 }
 
